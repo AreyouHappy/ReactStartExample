@@ -2,7 +2,7 @@
 
 
 # 폴더 Folder
-1. <kbd>01_hello</kbd>  - Start React
+1. `01_hello`  - Start React
 
 
 ```
@@ -10,3 +10,4 @@
     2. cd 앱이름 // cd hello
     3. npm start
 ```
+2. `02_TimerCount` - Timer Count
