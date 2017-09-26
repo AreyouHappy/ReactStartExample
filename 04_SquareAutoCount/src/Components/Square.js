@@ -29,6 +29,7 @@ class Square extends React.Component {
       number: current.number + 1
     }));
 
+
   }
 
    //컴포넌트가 생성되면 작동
