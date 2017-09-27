@@ -24,7 +24,7 @@ class Square extends React.Component {
 
   // 1초마다 호출
   tick() {
-    data.upSum(this.state.number);
+    data.upSum(this.state.number); // sum 더해주는 함수
     this.setState((current) => ({
       number: current.number + 1
     }));

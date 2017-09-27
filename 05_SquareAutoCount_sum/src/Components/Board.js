@@ -26,6 +26,7 @@ class Board extends React.Component {
   componentDidMount() {
     this.interval = setInterval(() => this.tick(), 1000);
   }
+  // 데이터 설정
   tick(){
     this.setState((current) => ({
       sum: data.sum
